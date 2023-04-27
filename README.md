@@ -1,7 +1,7 @@
 ## Hi there, I'm Kaho 👋
 
-🌱 I’m currently learning React, TypeScript, NextJS
-📫 How to reach me: kahofujita1@gmail.com
+- 🌱 I’m currently learning React, TypeScript, NextJS
+- 📫 How to reach me: kahofujita1@gmail.com
 
 <!--
 **kahofujita/kahofujita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
