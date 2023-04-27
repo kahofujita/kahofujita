@@ -26,9 +26,9 @@
 
 ## :fire: My Stats:
 
-![Kaho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahofujita&theme=cobalt&show_icons=true)
+![Kaho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahofujita&theme=nightowl&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahofujita&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahofujita&layout=compact&theme=nightowl)
 
 <!--
 **kahofujita/kahofujita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
