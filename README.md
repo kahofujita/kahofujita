@@ -1,4 +1,4 @@
-## Hi there, I'm Kaho 👋 ##
+# Hi there, I'm Kaho 👋 ##
 
 
 - 🌱 I’m currently learning React, TypeScript, NextJS
