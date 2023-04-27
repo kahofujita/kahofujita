@@ -1,4 +1,6 @@
-# Hi there, I'm Kaho 👋 ##
+# Hi there, I'm Kaho 👋
+
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
 
 - 🌱 I’m currently learning React, TypeScript, NextJS
