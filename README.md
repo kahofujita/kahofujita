@@ -1,8 +1,5 @@
 # Hi there, I'm Kaho 👋
 
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
-
-
 - 🌱 I’m currently learning React, TypeScript, NextJS
 - 📫 How to reach me: kahofujita1@gmail.com
 
@@ -27,6 +24,9 @@
 </div>
 
 ## :fire: My Stats:
+
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+
 
 ![Kaho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahofujita&theme=tokyonight&show_icons=true)
 
