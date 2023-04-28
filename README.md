@@ -25,9 +25,6 @@
 
 ## :fire: My Stats:
 
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
-
-
 ![Kaho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahofujita&theme=tokyonight&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahofujita&layout=compact&theme=tokyonight)
@@ -45,4 +42,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kahofujita1@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 -->
