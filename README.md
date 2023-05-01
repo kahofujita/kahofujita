@@ -3,7 +3,7 @@
 Full-Stack Developer
 --------------------
 
-I have been coding for over a year and have found my passion in front-end and full-stack development. 
+<div>I have been coding for over a year and have found my passion in front-end and full-stack development.</div>
 I love working with a team to create a collaborative and engaging work environment.
 
 * 🌍  I'm based in Vancouver, Canada
