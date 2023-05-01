@@ -4,8 +4,7 @@ Full-Stack Developer :woman_technologist:
 ----------------------------------------
 
 I have been coding for over a year and have found my passion in front-end and full-stack development.<br />
-I love working with a team to create a collaborative and engaging work environment.
-<br />
+I love working with a team to create a collaborative and engaging work environment 🤝
 <br />
 
 * 🌍  I'm based in Vancouver, Canada
@@ -13,13 +12,13 @@ I love working with a team to create a collaborative and engaging work environme
 * ✉️  You can contact me at [kahofujita1@gmail.com](mailto:kahofujita1@gmail.com)
 * 🧠  I'm learning TypeScript and NextJS
 * 🤝  I'm open to collaborating on exciting projects as a front-end or full-stack developer
+* ⚡  Foodie :sushi: Anime ⚡ Cafe Exploring :coffee: Hiking :deciduous_tree: Reading :books:
 
 <a href="https://www.twitter.com/kaho_tech" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### Skills
-
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -44,7 +43,7 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
 </p>
 
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/kahofujita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kahofujita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kaho_tech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
