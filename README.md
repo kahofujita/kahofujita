@@ -15,7 +15,7 @@ I love working with a team to create a collaborative and engaging work environme
 * :four_leaf_clover:  Food, Anime, Cat, Cafe Exploring, Hiking, Reading
 
 <a href="https://www.twitter.com/kaho_tech" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-badge"
+src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 <br />
 
