@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, My name is Kaho :dizzy:</h1>
---------------------
+<h1 align="center">Hi there, I'm Kaho :dizzy:</h1>
 
 Full-Stack Developer
 --------------------
