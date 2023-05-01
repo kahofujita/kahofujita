@@ -44,7 +44,7 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
 
 
 
-### Connect with Me:
+### Socials:
 
 [![Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kahofujita)
 [![Socials](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/kaho_tech)
