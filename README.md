@@ -2,8 +2,8 @@
 
 <h2 align="center">Full-Stack Developer</h2>
 
-<p align="center">I have been coding for over a year and have found my passion in front-end and full-stack development.</p>
-<p align="center">I love working with a team to create a collaborative and engaging work environment.</p>
+<div align="center">I have been coding for over a year and have found my passion in front-end and full-stack development.</div>
+<div align="center">I love working with a team to create a collaborative and engaging work environment.</div>
 
 * 🌍  I'm based in Vancouver, Canada
 * 🖥️  See my portfolio at [kahofujita.com](http://kahofujita.com)
