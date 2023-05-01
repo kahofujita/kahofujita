@@ -1,4 +1,4 @@
-Hi there, I'm Kaho:sunflower:
+Hi there, My name is Kaho Fujita :dizzy:
 ===================================================================================================================================
 
 Full-Stack Developer
