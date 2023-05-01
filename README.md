@@ -23,20 +23,19 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
 
 [![Languages and Tools](https://skillicons.dev/icons?i=react)](https://reactjs.org)&nbsp;
 [![Languages and Tools](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
-[![Languages and Tools](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org) 
-[![Languages and Tools](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/docs) 
-[![Languages and Tools](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) 
-[![Languages and Tools](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![Languages and Tools](https://skillicons.dev/icons?i=css)](https://www.w3.org/TR/CSS/#css)
-[![Languages and Tools](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)
-[![Languages and Tools](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![Languages and Tools](https://skillicons.dev/icons?i=express)](https://expressjs.com)
-[![Languages and Tools](https://skillicons.dev/icons?i=graphql)](https://graphql.org)
-[![Languages and Tools](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
-[![Languages and Tools](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
-[![Languages and Tools](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
-[![Languages and Tools](https://skillicons.dev/icons?i=figma)](https://firebase.google.com)
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/docs)&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=css)](https://www.w3.org/TR/CSS/#css)&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=express)](https://expressjs.com)&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=graphql)](https://graphql.org)&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=figma)](https://firebase.google.com)&nbsp;
 
 ### Socials:
 
@@ -76,6 +75,7 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" **alt="Storybook" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 
 [![Languages and Tools](https://skillicons.dev/icons?i=wordpress)](https://en-ca.wordpress.org)
 <br />
