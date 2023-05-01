@@ -35,14 +35,8 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
 [![Languages and Tools](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
 [![Languages and Tools](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![Languages and Tools](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
-[![Languages and Tools](https://skillicons.dev/icons?i=wordpress)](https://en-ca.wordpress.org)
-<br />
 [![Languages and Tools](https://skillicons.dev/icons?i=figma)](https://firebase.google.com)
-[![Languages and Tools](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/uk/products/photoshop.html)
-[![Languages and Tools](https://skillicons.dev/icons?i=ai)](adobe.com/uk/products/illustrator.html)
-[![Languages and Tools](https://skillicons.dev/icons?i=jira)](adobe.com/uk/products/illustrator.html)
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 
 ### Socials:
 
@@ -82,6 +76,11 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" **alt="Storybook" width="40" height="40"/>
+
+[![Languages and Tools](https://skillicons.dev/icons?i=wordpress)](https://en-ca.wordpress.org)
+<br />
+[![Languages and Tools](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/uk/products/photoshop.html)
+[![Languages and Tools](https://skillicons.dev/icons?i=ai)](adobe.com/uk/products/illustrator.html)
 </div>
 
 <p align="left"> <a href="https://www.github.com/kahofujita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kahofujita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kaho_tech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
