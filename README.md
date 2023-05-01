@@ -1,4 +1,4 @@
-Hi there, My name is Kaho Fujita :dizzy:
+<h1 align="center">Hi there, My name is Kaho :dizzy:</h1>
 ===================================================================================================================================
 
 Full-Stack Developer
