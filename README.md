@@ -1,9 +1,8 @@
-<h1 align="center">Hi there, I'm Kaho :dizzy:</h1>
+<h1 align="center">Hi there. My name is Kaho :dizzy:</h1>
 
-Full-Stack Developer
---------------------
-
-I have been coding for over a year and have found my passion in front-end and full-stack development. I love working with a team to create a collaborative and engaging work environment.
+<h2 align="center">Full-Stack Developer</h2>
+<p align="center">
+I have been coding for over a year and have found my passion in front-end and full-stack development. I love working with a team to create a collaborative and engaging work environment.</p>
 
 * 🌍  I'm based in Vancouver, Canada
 * 🖥️  See my portfolio at [kahofujita.com](http://kahofujita.com)
