@@ -1,10 +1,11 @@
 <h1 align="center">Hi there, I'm Kaho :dizzy:</h1>
 
-Full-Stack Developer
---------------------
+Full-Stack Developer :woman_technologist:
+----------------------------------------
 
 I have been coding for over a year and have found my passion in front-end and full-stack development.<br />
 I love working with a team to create a collaborative and engaging work environment.
+<br />
 <br />
 
 * 🌍  I'm based in Vancouver, Canada
