@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kaho :sunflower:</h1>
+<h1 align="center">Hi there, I'm Kaho :dizzy:</h1>
 
 Full-Stack Developer :woman_technologist:
 ----------------------------------------
@@ -51,9 +51,9 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
 
 ### My Stats:
 
-![Kaho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahofujita&theme=synthwave&show_icons=true)
+![Kaho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahofujita&theme=highcontrast&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahofujita&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahofujita&layout=compact&theme=highcontrast)
 
 <!--
 **kahofujita/kahofujita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
