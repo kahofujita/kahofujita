@@ -21,8 +21,8 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
 
 ### Languages and Tools:
 
-[![Languages and Tools](https://skillicons.dev/icons?i=react)](https://reactjs.org) 
-[![Languages and Tools](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![Languages and Tools](https://skillicons.dev/icons?i=react)](https://reactjs.org)&nbsp;
+[![Languages and Tools](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
 [![Languages and Tools](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org) 
 [![Languages and Tools](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/docs) 
 [![Languages and Tools](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) 
