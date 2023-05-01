@@ -4,7 +4,7 @@ Full-Stack Developer :woman_technologist:
 ----------------------------------------
 
 I have been coding for over a year and have found my passion in front-end and full-stack development.<br />
-I love working with a team to create a collaborative and engaging work environment.
+I love working with teams to create a collaborative and engaging work environment.
 <br />
 
 * 🌍  I'm based in Vancouver, Canada
