@@ -12,7 +12,7 @@ I love working with a team to create a collaborative and engaging work environme
 * ✉️  You can contact me at [kahofujita1@gmail.com](mailto:kahofujita1@gmail.com)
 * 🧠  I'm learning TypeScript and NextJS
 * 🤝  I'm open to collaborating on exciting projects as a front-end or full-stack developer
-* :four_leaf_clover: Food, Anime, Cat, Cafe Exploring, Hiking, Reading
+* :four_leaf_clover:  Food, Anime, Cat, Cafe Exploring, Hiking, Reading
 
 <a href="https://www.twitter.com/kaho_tech" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -36,9 +36,11 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
 [![Languages and Tools](https://skillicons.dev/icons?i=css)](https://www.w3.org/TR/CSS/#css)
 [![Languages and Tools](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)
 [![Languages and Tools](https://skillicons.dev/icons?i=wordpress)](https://en-ca.wordpress.org)
+<br />
 [![Languages and Tools](https://skillicons.dev/icons?i=figma)](https://firebase.google.com)
 [![Languages and Tools](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/uk/products/photoshop.html)
 [![Languages and Tools](https://skillicons.dev/icons?i=ai)](adobe.com/uk/products/illustrator.html)
+
 
 
 ### Socials:
