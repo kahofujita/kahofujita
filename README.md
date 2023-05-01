@@ -48,11 +48,12 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
 </p>
 
 
-### Connect with Me:
+### Socials:
 
 
 
-[![Languages and Tools](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kahofujita)
+[![Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kahofujita)
+[![Socials](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/kaho_tech)
 
 <p align="left"> <a href="https://www.github.com/kahofujita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kahofujita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kaho_tech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
