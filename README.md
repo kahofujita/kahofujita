@@ -9,7 +9,7 @@ I love working with teams to create a collaborative and engaging work environmen
 
 * 🌍  I'm based in Vancouver, Canada
 * 🖥️  See my portfolio at [kahofujita.com](http://kahofujita.com)
-* ✉️  You can contact me at [kahofujita1@gmail.com](mailto:kahofujita1@gmail.com)
+<!-- * ✉️  You can contact me at [kahofujita1@gmail.com](mailto:kahofujita1@gmail.com) -->
 * 🧠  I'm learning TypeScript and NextJS
 * 🤝  I'm open to collaborating on exciting projects as a front-end or full-stack developer
 * :four_leaf_clover:  Food, Anime, Cat, Cafe Exploring, Hiking, Reading
