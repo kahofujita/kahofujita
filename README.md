@@ -1,11 +1,9 @@
-<h1 align="center">Hi there, I'm Kaho :dizzy:</h1>
+<h1 align="center">Hi there, I'm Kaho 👋</h1>
 
 Full-Stack Developer :woman_technologist:
 ----------------------------------------
 
 I have been coding for over a year and have found my passion in front-end and full-stack development.<br />
-I love working with teams to create a collaborative and engaging work environment.
-<br />
 
 * 🌍  I'm based in Vancouver, Canada
 * 🖥️  See my portfolio at [kahofujita.com](http://kahofujita.com)
@@ -51,6 +49,8 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
 <!--
 **kahofujita/kahofujita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I love working with teams to create a collaborative and engaging work environment.
+<br />
 # Hi there, I'm Kaho 👋
 
 - 🌱 I’m currently learning React, TypeScript, NextJS
