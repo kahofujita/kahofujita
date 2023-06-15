@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone. I'm Kaho 👋</h1>
 
-Full-Stack Developer :woman_technologist:
+Full-Stack Developer in Canada
 ----------------------------------------
 
 After more than a year of coding, I like coding as a front-end or full-stack developer.<br />
