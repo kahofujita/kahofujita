@@ -39,7 +39,7 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
 [![Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kahofujita)
 [![Socials](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/kaho_tech)
 
-
+<!--
 ### My Stats:
 
 ![Kaho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahofujita&theme=cobalt&show_icons=true)
