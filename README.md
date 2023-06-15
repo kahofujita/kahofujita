@@ -44,7 +44,7 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
 
 ![Kaho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahofujita&theme=cobalt&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahofujita&layout=compact&theme=cobalt) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahofujita&layout=compact&theme=cobalt) 
 
 <!--
 **kahofujita/kahofujita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
