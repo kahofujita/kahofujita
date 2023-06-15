@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kaho 👋</h1>
+<h1 align="center">Hello, I'm Kaho 👋</h1>
 
 Full-Stack Developer :woman_technologist:
 ----------------------------------------
@@ -8,8 +8,8 @@ I have been coding for over a year and have found my passion in front-end and fu
 * 🌍  I'm based in Vancouver, Canada
 * 🖥️  See my portfolio at [kahofujita.com](http://kahofujita.com)
 * 🧠  I'm learning TypeScript and NextJS
-* 🤝  I'm open to collaborating on exciting projects as a front-end or full-stack developer
-* :four_leaf_clover:  Food, Anime, Cat, Cafe Exploring, Hiking, Reading
+* 🤝  I'm open to collaborating on projects as a front-end or full-stack developer
+* :four_leaf_clover:  I like food, anime, and cat
 
 <a href="https://www.twitter.com/kaho_tech" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
