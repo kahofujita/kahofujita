@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Kaho 👋</h1>
 
-Full Stack Developer
-----------------------------------------
+I'm a full stack developer.
 
 ### Languages and Tools:
 
