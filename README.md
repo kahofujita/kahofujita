@@ -1,20 +1,7 @@
-<h1 align="center">Hi everyone. I'm Kaho 👋</h1>
+<h1 align="center">Hi, I'm Kaho 👋</h1>
 
-Full-Stack Developer :smiley_cat:
+Full Stack Developer
 ----------------------------------------
-
-After more than a year of coding, I like coding as a front-end or full-stack developer.<br />
-
-* 🌍  I'm based in Vancouver, Canada
-* 🖥️  See my portfolio at [kahofujita.com](http://kahofujita.com)
-* 🧠  I'm learning NextJS and GraphQL
-* 🤝  I'm open to collaborating on exciting projects as a front-end or full-stack developer
-* :heart:  I like food, anime, and cats
-
-<a href="https://www.twitter.com/kaho_tech" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-<br />
 
 ### Languages and Tools:
 
@@ -34,12 +21,6 @@ src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-
 [![Languages and Tools](https://skillicons.dev/icons?i=sass)](https://sass-lang.com)
 [![Languages and Tools](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 
-### Socials:
-
-[![Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kahofujita)
-[![Socials](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/kaho_tech)
-
-
 ### My Stats:
 
 ![Kaho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahofujita&theme=cobalt&show_icons=true)
@@ -55,6 +36,23 @@ I love working with teams to create a collaborative and engaging work environmen
 
 - 🌱 I’m currently learning React, TypeScript, NextJS
 - 📫 How to reach me: kahofujita1@gmail.com
+### Socials:
+
+[![Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kahofujita)
+[![Socials](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/kaho_tech)
+
+After more than a year of coding, I like coding as a front-end or full-stack developer.<br />
+
+* 🌍  I'm based in Vancouver, Canada
+* 🖥️  See my portfolio at [kahofujita.com](http://kahofujita.com)
+* 🧠  I'm learning NextJS and GraphQL
+* 🤝  I'm open to collaborating on exciting projects as a front-end or full-stack developer
+* :heart:  I like food, anime, and cats
+
+<a href="https://www.twitter.com/kaho_tech" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/kaho_tech?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+<br />
 
 ## Languages & Tools:
 * ✉️  You can contact me at [kahofujita1@gmail.com](mailto:kahofujita1@gmail.com)
