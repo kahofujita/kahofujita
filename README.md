@@ -1,7 +1,3 @@
-<h1 align="center">Hi, I'm Kaho 👋</h1>
-
-<h3>I'm a full stack developer.</h3>
-
 ### Languages and Tools:
 
 [![Languages and Tools](https://skillicons.dev/icons?i=react)](https://reactjs.org)
